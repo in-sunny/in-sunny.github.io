@@ -32,3 +32,11 @@
 	<li>item3</li>
 	<li>item4</li>
 </ol>
+
+###이미지
+
+```html
+<mg src="https://i.ytimg.com/vi/akjnhyamjnY/maxresdefault.jpg" alt="stickymonsterlab">
+```
+
+![stickymonsterlab](https://i.ytimg.com/vi/akjnhyamjnY/maxresdefault.jpg)
