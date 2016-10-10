@@ -2,8 +2,11 @@
 
 
 # TODO
+
 - [x] Study Markdown
 - [ ] make index.html
+
+
 
 #Markdown 문법 사용법
 
@@ -17,7 +20,12 @@
 ```
 
 # Markdown H1
-##
+## Markdown H2
+### Markdown H3
+#### Markdown H4
+##### Markdown H5
+###### Markdown H6
+
 
 <!-- ul>li{item$}*3 -->
 <ul>
@@ -49,13 +57,25 @@
 - [디자이너에게 영감을 주는 사이트](http://iropke.com/blog/)
 
 
+
 ### 인용 구문
+
 인용절은 보통 들여쓰기를 통해 사용자에게 일반 문장과 구분해준다.<br>
 HTML 언어에서는 `<blockquote>` 요소를 사용하여 인용절을 구조화한다.
 
 > "Design is All. All is Design"<br>
 > "Learn By Doing"<br>
 > "그것이 최선입니까? 확실해요?"
+
+
+
+### 표
+
+Job Type | Role
+---|---
+Planner | Plan
+Designer | Design
+Developer | Develop
 
 
 
