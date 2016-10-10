@@ -41,7 +41,7 @@
 
 <img src="https://i.ytimg.com/vi/akjnhyamjnY/maxresdefault.jpg" alt="stickymonsterlab" width="320" height="180">
 
-![stickymonsterlab](Assets/stickymonster_600.jpg "stickymonsterlab")
+
 
 
 
