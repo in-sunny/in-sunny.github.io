@@ -33,20 +33,31 @@
 	<li>item4</li>
 </ol>
 
-###이미지
+
+### 이미지
 
 ```html
 <img src="https://i.ytimg.com/vi/akjnhyamjnY/maxresdefault.jpg" alt="stickymonsterlab">
 ```
-
 <img src="https://i.ytimg.com/vi/akjnhyamjnY/maxresdefault.jpg" alt="stickymonsterlab" width="320" height="180">
 
+![stickymonsterlab](Assets/stickymonster_600.jpg "stickymonsterlab")
+
+
+### 하이퍼링크
+
+- [디자이너에게 영감을 주는 사이트](http://iropke.com/blog/)
+
+
+### 인용 구문
+인용절은 보통 들여쓰기를 통해 사용자에게 일반 문장과 구분해준다.<br>
+HTML 언어에서는 <blockquote> 요소를 사용하여 인용절을 구조화한다.
+
+"Design is All. All is Design"<br>
+"Learn By Doing"<br>
+"그것이 최선입니까? 확실해요?"
 
 
 
 
 
-
-
-
-![stickymonsterlab](https://i.ytimg.com/vi/akjnhyamjnY/maxresdefault.jpg)
