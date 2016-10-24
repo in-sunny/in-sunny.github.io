@@ -70,6 +70,18 @@ HTML 언어에서는 `<blockquote>` 요소를 사용하여 인용절을 구조�
 
 
 ### 표
+```html
+<table>
+	<tr>
+		<th></th>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+```
 
 Job Type | Role
 ---|---
